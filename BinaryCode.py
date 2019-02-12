@@ -12,3 +12,4 @@ def funkcua (a):
     qwerty = int(qwerty)
     return qwerty
 print (funkcua(71))
+#vudbjfvbjkdfkvzbdxfb
